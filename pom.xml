@@ -49,5 +49,6 @@
         <module>config</module>
         <module>war</module>
         <module>ear</module>
+        <module>addon</module>
   </modules>
 </project>
